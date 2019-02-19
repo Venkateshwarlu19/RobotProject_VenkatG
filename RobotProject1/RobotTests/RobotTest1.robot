@@ -22,6 +22,6 @@ FaceBookLogin
 *** Variables ***
 ${url}    https://www.facebook.com/ 
 ${Browser}    chrome
-@{CREDENTIALS}    8106999519    svenkat125 
+@{CREDENTIALS}    xxxxx    xxxxx 
     
         
